@@ -1,0 +1,15 @@
+ Python:
+
+X1 = input(“what is your first number? “)
+X2 = input(“what is your second number? “)
+X3 = X1 + X2
+print(X3)
+
+Assembly:
+
+movl $14, %eax
+movl $10, %ebx 
+add %eax, %ebx
+call printf
+
+
