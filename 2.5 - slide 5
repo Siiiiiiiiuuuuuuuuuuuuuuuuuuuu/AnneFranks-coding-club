@@ -1,0 +1,8 @@
+Low-level language means: 
+a type of programming language that contains basic instructions recognized by a computer
+
+Machine code means: 
+a computer programming language consisting of binary or hexadecimal instructions which a computer can respond to directly.
+
+The difference between machine code and assembly languages:
+The main difference between machine code and assembly language is that the machine code is a language consisting of binaries that can be directly executed by a computer while an assembly language is a low-level programming language that requires a software called an assembler to convert it into machine code.
